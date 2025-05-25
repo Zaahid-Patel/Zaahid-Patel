@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 Intermediate full-stack dev by day, code-tinkerer by night<br>🌱 Turning agricultural tech into sleek Flutter apps & ETL pipelines<br>🛠️ Passionate about clear, maintainable code—and explaining “why” over “just how”<br>💡 On a quest to build apps that level up both workouts and workflows</p>
+<p align="left">👨‍💻 Full-stack dev by day, code-tinkerer by night<br>🌱 Turning agricultural tech into sleek Flutter apps & ETL pipelines<br>🛠️ Passionate about clear, maintainable code—and explaining “why” over “just how”<br>💡 On a quest to build apps that level up both workouts and workflows</p>
 
 ###
 
